@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1763600340,
+	"version": 1763660689,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -15,6 +15,15 @@
 		"images/verd_nota_hit-sheet0.png",
 		"images/verm_nota_hit-sheet0.png",
 		"images/bg_menu_jogar_novamente-sheet0.png",
+		"images/bg-sheet0.png",
+		"images/container_tela_incial-sheet0.png",
+		"images/zabumba-sheet0.png",
+		"images/baixo-sheet0.png",
+		"images/sanfona-sheet0.png",
+		"images/triangulo-sheet0.png",
+		"images/estrela-sheet0.png",
+		"images/bg_selec_instrumento-sheet0.png",
+		"images/bg_baixo-sheet0.png",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
