@@ -1,0 +1,25 @@
+﻿{
+	"version": 1763600340,
+	"fileList": [
+		"data.js",
+		"c2runtime.js",
+		"jquery-3.4.1.min.js",
+		"offlineClient.js",
+		"images/joy_nota_azul-sheet0.png",
+		"images/joy_nota_verde-sheet0.png",
+		"images/joy_nota_amarela-sheet0.png",
+		"images/joy_nota_vermelha-sheet0.png",
+		"images/linha_guitarra-sheet0.png",
+		"images/az_nota_hit-sheet0.png",
+		"images/am_nota_hit-sheet0.png",
+		"images/verd_nota_hit-sheet0.png",
+		"images/verm_nota_hit-sheet0.png",
+		"images/bg_menu_jogar_novamente-sheet0.png",
+		"icon-16.png",
+		"icon-32.png",
+		"icon-114.png",
+		"icon-128.png",
+		"icon-256.png",
+		"loading-logo.png"
+	]
+}
