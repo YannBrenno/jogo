@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1763759049,
+	"version": 1763783501,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -52,6 +52,9 @@
 		"images/loading-sheet11.png",
 		"images/ui_bola_selec_personagem_selecionado-sheet0.png",
 		"images/ui_bola_selec_personagem_selecionado-sheet1.png",
+		"images/canvas.png",
+		"images/canvas2.png",
+		"images/compartilhar_bg-sheet0.png",
 		"media/selec (1) (mp3cut.net).ogg",
 		"media/msc_tela_selec_char.ogg",
 		"media/game-start-6104 (mp3cut.net).ogg",
@@ -61,6 +64,7 @@
 		"icon-114.png",
 		"icon-128.png",
 		"icon-256.png",
-		"loading-logo.png"
+		"loading-logo.png",
+		"zlib_and_gzip.min.js"
 	]
 }
